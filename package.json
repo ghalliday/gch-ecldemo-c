@@ -1,9 +1,9 @@
 {
   "name": "demoRepoC",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "lockfileVersion": 3,
   "requires": true,
   "dependencies": {
-    "demoRepoD": "ghalliday/gch-ecldemo-d#version1"
+    "demoRepoD": "ghalliday/gch-ecldemo-d#version2"
   }
 }
